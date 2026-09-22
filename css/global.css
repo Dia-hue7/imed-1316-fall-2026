@@ -1,5 +1,5 @@
 /*
-60 of ##E3CD9F
+60 of #444F0E
 30 of #AABA53
 10 of #BA6325
 */
@@ -7,12 +7,12 @@
 :root {
 
     /* var(--primaryColor) */
-    --primaryColor: #E3CD9F;
+    --primaryColor: #444F0E;
 
     /* var(--primaryColor) */
-    --secondaryColor: #AABA53;
+    --secondaryColor: #C4D961;
 
     /* var(--primaryColor) */
-    --accentyColor: #BA6325;
+    --accentyColor: #403329;
 
 }

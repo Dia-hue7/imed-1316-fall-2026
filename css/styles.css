@@ -1,6 +1,7 @@
+
 @import url('global.css');
 
 body {
     background-color: var(--primaryColor);
-    color: #435913
+    color: #435913;
 }

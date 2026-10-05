@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap');
 
 @import url('global.css');
@@ -5,4 +6,12 @@
 body {
     background-color: var(--primaryColor);
     color: #FFE6B3;
+}
+
+
+.playpen-sans-imed {
+  font-family: "Playpen Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
 }

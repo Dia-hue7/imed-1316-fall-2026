@@ -4,9 +4,15 @@
 @import url('global.css');
 
 body {
-    background-color: var(--primaryColor);
+
     color: #FFE6B3;
 }
+
+.font-awsome-icon {
+  background-color: var(--primaryColor);
+}
+
+
 
 
 .playpen-sans-imed {

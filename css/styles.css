@@ -4,11 +4,11 @@
 @import url('global.css');
 
 body {
-
-    color: #FFE6B3;
+  color: #FFE6B3;
 }
 
-.font-awsome-icon {
+
+.font-awesome-icons {
   background-color: var(--primaryColor);
 }
 
@@ -21,3 +21,4 @@ body {
   font-weight: bold;
   font-style: normal;
 }
+
